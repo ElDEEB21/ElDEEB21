@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">A junior Data Scientist from Egypt<br><br>- 🔭 I’m currently student in Fayoum University<br>- 📚 I'm currently learning Data Science</p>
+<p align="left">A junior Data Scientist from Egypt<br><br>- 🔭 I’m currently student at Fayoum University<br>- 📚 I'm currently learning Data Science</p>
 
 ###
 
