@@ -53,12 +53,6 @@
   </a>
 </p>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohammedMohsen0404/MohammedMohsen0404/output/github-contribution-grid-snake.svg" />
-</div>
-<hr/>
-
 <h3 align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="5%" valign="bottom"> GitHub Stats:
 </h3>
