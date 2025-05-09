@@ -14,7 +14,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Abd El-Rahman Eldeeb</h1>
-<h3 align="center">A Data Scientist from Egypt 🌍</h3>
+<h3 align="center">A Junior Data Scientist from Egypt 🌍</h3>
 
 - 🔭 I’m currently a student at Fayoum University
 - 📚 I'm currently learning Data Science
