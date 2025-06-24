@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0076B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100081051196113" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877E2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
   <a href="https://www.instagram.com/abdoo.3_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
