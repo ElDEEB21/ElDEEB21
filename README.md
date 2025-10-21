@@ -11,8 +11,6 @@
 
 - 🎓 **Computer Science & AI** student at Fayoum University (2022-2026)
 - � **Instructor** at Digital Egypt Cubs Initiative - Teaching tech to youth aged 12-17
-- 🏆 **Codeforces Expert** | Ranked 17th in ECPC 2023 Qualifications (280 teams)
-- � Specializing in **Image Classification**, **Object Detection**, and **Facial Recognition**
 - 🛠️ Building CV solutions with **PyTorch**, **OpenCV**, and **TensorFlow**
 - 👨‍🏫 Former **Mentor & Coach** at Fayoum ICPC Community (2023-2025)
 
