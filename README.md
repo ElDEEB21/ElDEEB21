@@ -1,5 +1,5 @@
 <div align="cen<h1 align="center">Hi 👋, I'm Abdulrahman Eldeeb</h1>
-<h3 align="center">Computer Vision Engineer | Codeforces Expert 🚀</h3>
+<h3 align="center">Computer Vision Engineer 🚀</h3>
 
 <p align="center">
   <em>Senior CS Student at Fayoum University specializing in Computer Vision, Deep Learning, and Competitive Programming</em>
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Computer Science & AI** student at Fayoum University (2022-2026)
+- 🎓 **Computer Science** student at Fayoum University (2022-2026)
 - � **Instructor** at Digital Egypt Cubs Initiative - Teaching tech to youth aged 12-17
 - 🛠️ Building CV solutions with **PyTorch**, **OpenCV**, and **TensorFlow**
 - 👨‍🏫 Former **Mentor & Coach** at Fayoum ICPC Community (2023-2025)
