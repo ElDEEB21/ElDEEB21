@@ -1,83 +1,158 @@
-<div align="cen<h1 align="center">Hi 👋, I'm Abdulrahman Eldeeb</h1>
-<h3 align="center">Computer Vision Engineer 🚀</h3>
+<h1 align="center">Abdulrahman Eldeeb</h1>
+<h3 align="center">Backend Engineer | Django & REST APIs</h3>
 
 <p align="center">
-  <em>Senior CS Student at Fayoum University specializing in Computer Vision, Deep Learning, and Competitive Programming</em>
+  <strong>Senior CS Student</strong> at Fayoum University | Building scalable, production-ready APIs with Django
+</p>
+
+<p align="center">
+  <a href="mailto:ar2724@fayoum.edu.eg">📧 Email</a> •
+  <a href="https://linkedin.com/in/abd-el-rahman-eldeeb">💼 LinkedIn</a> •
+  <a href="https://github.com/ElDEEB21">🔗 GitHub</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **Computer Science** student at Fayoum University (2022-2026)
-- � **Instructor** at Digital Egypt Cubs Initiative - Teaching tech to youth aged 12-17
-- 🛠️ Building CV solutions with **PyTorch**, **OpenCV**, and **TensorFlow**
-- 👨‍🏫 Former **Mentor & Coach** at Fayoum ICPC Community (2023-2025)
+I'm a **Backend Developer** passionate about building robust, scalable APIs and backend systems. My expertise lies in **Django and Django REST Framework**, where I design clean architectures, implement secure authentication, and integrate external payment systems. Currently a senior CS student at Fayoum University with hands-on experience in production-ready applications.
+
+**Key Strengths:**
+- 🏗️ **Backend Architecture & Design** - Service Layer, Selector Layer, modular Django apps
+- 🔐 **Secure Authentication** - JWT with token rotation, OAuth, secure session management  
+- 💳 **Payment Integration** - Stripe webhooks, transaction processing, error handling
+- 📊 **Database Design** - PostgreSQL, normalized schemas, complex queries
+- 🎯 **RESTful API Design** - Clean endpoints, versioning, comprehensive documentation
+
+**Beyond Backend:**
+- 🎓 **Technical Mentor** - Instructed youth at Digital Egypt Cubs & coached 15+ students in competitive programming
+- 💡 **Codeforces Expert** - 17th Place ECPC 2023 Qualifications, strong algorithmic foundation
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🖼️ [Intel Image Classification](https://github.com/ElDEEB21/intel-image-classification)
-Comparative study of **AlexNet vs ResNet18** for scene classification (6 classes). ResNet18 achieved **93.03% test accuracy** with F1-score of 0.93 in just 19 minutes, demonstrating deep architecture advantages.
+### 🛒 [E-Commerce REST API](https://github.com/ElDEEB21/ecommerce-api-drf) ⭐ **Main Project**
+**Production-ready e-commerce backend API with complete payment integration**
 
-**Tech Stack**: PyTorch, Torchvision, Google Colab
+Built a fully functional e-commerce API from the ground up covering authentication, product catalog, shopping cart, order management, and **Stripe payment processing** with webhook-driven status updates.
+
+**Key Features:**
+- 20+ RESTful endpoints covering all major operations
+- JWT authentication with token rotation & blacklisting
+- Stripe integration with webhook support for payment status tracking
+- Service Layer & Selector Layer architecture patterns
+- Auto-generated Swagger/OpenAPI documentation
+- 5 modular Django apps with clean separation of concerns
+
+**Tech Stack:** `Django REST Framework` • `PostgreSQL` • `Stripe` • `JWT` • `Swagger`
 
 ---
 
-### 😊 [FER-2013 Facial Emotion Recognition](https://github.com/ElDEEB21/FER-2013-CNN-ResNet)
-Comprehensive comparison of **Custom CNN vs Transfer Learning (ResNet50V2)** for 7-emotion classification on 35K images. Transfer learning achieved **68.79% accuracy** (11% improvement) but with 20× more parameters, highlighting accuracy-efficiency trade-offs.
+### 📝 [Postify -- Modern Blogging Platform](https://github.com/ElDEEB21/postify-django) ⭐ **Full-Stack**
+**Complete blogging platform with analytics dashboard and CMS**
 
-**Tech Stack**: TensorFlow/Keras, Matplotlib, Kaggle
+Developed a full-featured blogging platform with user authentication, rich content management, and real-time analytics.
 
-**📓 Kaggle Notebooks**: 
-- [Custom CNN](https://www.kaggle.com/code/abdulrahmaneldeeb/face-emotion-detection-custom-cnn)
-- [Transfer Learning](https://www.kaggle.com/code/abdulrahmaneldeeb/face-emotion-detection-custom-resnet50v2)
+**Key Features:**
+- Google OAuth integration with Django Allauth
+- Complete CMS with categories, tags, and auto-generated slugs
+- Hierarchical comment system for user engagement
+- Creator dashboard with post analytics & Chart.js visualization
+- Responsive design with custom error pages
+- 5 modular Django apps organized for scalability
+
+**Tech Stack:** `Django MVT` • `SQLite` • `Django Allauth` • `Chart.js` • `Markdown Editor`
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-**Computer Vision & Deep Learning**  
+### 🔴 Backend Development (Primary)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ec1c24?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔐 APIs & Authentication  
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-%235469d4.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Swagger/OpenAPI](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Django Allauth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 💾 Databases & ORM
+- **Relational:** PostgreSQL, MySQL, SQLite
+- **ORM:** Django ORM with complex queries, migrations
+- **Design:** Normalization, indexing, query optimization
+
+### 🎯 Architecture & Design Patterns
+- Service Layer & Selector Layer patterns
+- Clean Architecture principles
+- Modular app design
+- RESTful API design & versioning
+
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### 📊 Data & ML (Secondary)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-
-**Programming & Tools**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-
-**Core Expertise**: Image Classification • Object Detection • Transfer Learning • Neural Networks • Data Structures & Algorithms • Problem Solving
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 
 ---
 
-## 🏆 Certifications & Achievements
+## Education & Certifications
 
-**Computer Vision & Deep Learning**
-- Deep Learning for Computer Vision (NTI & Coursat.ai)
-- OpenCV Bootcamp
+### 🎓 Degree
+**Bachelor of Computer Science and Artificial Intelligence**  
+Fayoum University (Oct 2022 – Jul 2026)
+
+### 🏆 Certifications
+**Backend & Databases:**
+- Associate Data Engineer in SQL
+- Google Data Analytics Professional Certificate  
+- Mastering Critical Skills in Algorithms using C++ (Dr. Moustafa Saad)
+
+**Machine Learning & AI:**
 - Machine Learning Specialization (Andrew Ng)
+- Deep Learning for Computer Vision (NTI & Coursat.ai)
+- Introduction to Generative AI with AWS (Udacity)
+- OpenCV Bootcamp
 
-**Competitive Programming**
-- Codeforces Expert
-- 17th Place - ECPC 2023 Qualifications (out of 280 teams)
-- 90th Place - ECPC 2023 Final
-- Mastering Algorithms using C++ (Dr. Moustafa Saad)
+### 🏅 Competitive Programming
+- **Codeforces Expert** - Advanced problem-solving, algorithmic thinking
+- **ECPC 2023 Qualifications:** 17th Place (out of 280 teams)
+- **ECPC 2023 Final:** 90th Place (out of 280 teams)
 
-**Additional**
-- Google Data Analytics Professional Certificate
-- AI Career Essentials (AiCE)
-- Introduction to Generative AI with AWS
+---
+
+## Experience
+
+**👨‍🏫 Technical Instructor** | Digital Egypt Cubs Initiative  
+*July 2025 – Dec 2025*
+- Taught tech fundamentals to 50+ students aged 12–17
+- Developed engaging curriculum for coding, design thinking, and AI concepts
+- Organized hands-on projects and team-based learning activities
+
+**🎯 Competitive Programming Mentor & Coach** | Fayoum ICPC Community  
+*April 2023 – Mar 2025*
+- Mentored 15–20 advanced students preparing for Egyptian Collegiate Programming Contest
+- Conducted workshops on data structures, algorithms, and problem-solving techniques
+- Organized training sessions and internal programming competitions
 
 ---
 
 <h3 align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="5%" valign="bottom"> GitHub Stats:
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="5%" valign="bottom"> GitHub Stats
 </h3>
 <div align="center">
   <table>
@@ -101,4 +176,13 @@ Comprehensive comparison of **Custom CNN vs Transfer Learning (ResNet50V2)** for
   </table>
 </div>
 
+---
 
+## 🤝 Soft Skills
+
+- Technical Training & Curriculum Development
+- Team Leadership & Mentoring
+- Problem-Solving & Analytical Thinking
+- Effective Communication
+- Code Review & Best Practices
+- Project Management

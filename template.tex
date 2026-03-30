@@ -1,0 +1,203 @@
+%-------------------------
+% Backend Django Developer CV - Abdulrahman Eldeeb
+% LaTeX Template
+%-------------------------
+
+\documentclass[a4paper,11pt]{article}
+
+%----------PACKAGES----------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{geometry}
+
+%----------PAGE SETUP----------
+\geometry{
+  left=0.6in,
+  right=0.6in,
+  top=0.5in,
+  bottom=0.5in
+}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\footskip}{4.08003pt}
+
+%----------COLORS----------
+\definecolor{primary}{HTML}{1A1A2E}
+\definecolor{accent}{HTML}{0F3460}
+\definecolor{linkblue}{HTML}{0066CC}
+
+%----------CUSTOM COMMANDS----------
+\titleformat{\section}{
+  \vspace{-6pt}\scshape\raggedright\large\bfseries\color{primary}
+}{}{0em}{}[\color{accent}\titlerule\vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{\item\small{#1}\vspace{-2pt}}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \small #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \small #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.15in]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+%----------DOCUMENT----------
+\begin{document}
+
+%----------HEADER----------
+\begin{center}
+  {\Huge\scshape\textbf{\color{primary}Abdulrahman Eldeeb}} \\[6pt]
+  {\large\color{accent}Backend Developer (Django)} \\[8pt]
+  \small
+  \faIcon{map-marker-alt}\hspace{2pt} Fayoum, Egypt \hspace{8pt}$|$\hspace{8pt}
+  \faIcon{phone}\hspace{2pt} (+20) 102-671-9792 \hspace{8pt}$|$\hspace{8pt}
+  \faIcon{envelope}\hspace{2pt} \href{mailto:ar2724@fayoum.edu.eg}{\color{linkblue}ar2724@fayoum.edu.eg} \\[4pt]
+  \faIcon{linkedin}\hspace{2pt} \href{https://linkedin.com/in/abd-el-rahman-eldeeb}{\color{linkblue}linkedin.com/in/abd-el-rahman-eldeeb} \hspace{8pt}$|$\hspace{8pt}
+  \faIcon{github}\hspace{2pt} \href{https://github.com/ElDEEB21}{\color{linkblue}github.com/ElDEEB21}
+\end{center}
+
+%----------SUMMARY----------
+\section{Summary}
+\small{
+  Computer Science senior and Codeforces Expert focused on backend development with Django and Django REST Framework. Experienced in building production-ready RESTful APIs with clean architecture, secure authentication, and payment integration. Strong foundation in algorithms and competitive programming.
+}
+
+%----------EDUCATION----------
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Fayoum University}{Fayoum, Egypt}
+    {Bachelor of Computer Science and Artificial Intelligence}{Oct 2022 -- Jul 2026}
+    \resumeItemListStart
+      \resumeItem{Relevant Coursework: Object-Oriented Programming, Data Structures, Algorithms Design \& Analysis, Operating Systems, Database Management Systems, Computer Architecture}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%----------EXPERIENCE----------
+\section{Professional Experience}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {Instructor}{July 2025 -- Dec 2025}
+    {Digital Egypt Cubs Initiative}{Fayoum, Egypt}
+    \resumeItemListStart
+      \resumeItem{Delivered engaging tech sessions to students aged 12--17, simplifying complex concepts like coding, design thinking, and AI into hands-on, age-appropriate activities.}
+      \resumeItem{Empowered youth through creative projects, teamwork, and digital skills, fostering innovation and practical learning experiences.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {Mentor \& Coach}{April 2023 -- Mar 2025}
+    {Fayoum ICPC Community}{Fayoum, Egypt}
+    \resumeItemListStart
+      \resumeItem{Mentored 15--20 students in programming fundamentals, data structures, and algorithm techniques to prepare for the Egyptian Collegiate Programming Contest (ECPC).}
+      \resumeItem{Organized programming workshops, training sessions, and coding competitions to enhance programming abilities of community members.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%----------PROJECTS----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+  \resumeProjectHeading
+    {\href{https://github.com/ElDEEB21/ecommerce-api-drf}{\color{linkblue}E-Commerce REST API} $|$ \emph{Django REST Framework, PostgreSQL, Stripe, JWT}}{Feb 2026 -- Mar 2026}
+    \resumeItemListStart
+      \resumeItem{Built a production-ready e-commerce API covering user auth, products, cart, orders, and \textbf{Stripe} payment processing with webhook-driven status updates.}
+      \resumeItem{Applied \textbf{Service Layer \& Selector Layer} patterns separating business logic from views and data access across 5 modular Django apps.}
+      \resumeItem{Implemented \textbf{JWT auth} with token rotation, blacklisting, HTTP-only cookies, and split settings (base/dev/prod) with auto-generated Swagger docs.}
+    \resumeItemListEnd
+
+  \resumeProjectHeading
+    {\href{https://github.com/ElDEEB21/postify-django}{\color{linkblue}Postify -- Modern Blogging Platform} $|$ \emph{Django MVT, SQLite, Chart.js}}{Dec 2025}
+    \resumeItemListStart
+      \resumeItem{Developed a full-stack blogging platform with Django MVT, featuring markdown editor, hierarchical comments, and \textbf{Google OAuth} via Django Allauth.}
+      \resumeItem{Built a creator dashboard with post analytics, view tracking, Chart.js trend visualization, and a CMS with categories, tags, and auto-generated slugs.}
+      \resumeItem{Organized into 5 Django apps (\texttt{core}, \texttt{accounts}, \texttt{blog}, \texttt{comments}, \texttt{dashboard}) with custom error pages and search/filter functionality.}
+    \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%----------TECHNICAL SKILLS----------
+\section{Technical Skills}
+\vspace{2pt}
+{\small
+\renewcommand{\arraystretch}{1.4}
+\begin{tabularx}{\textwidth}{@{\hspace{4pt}} l @{\hspace{12pt}} X @{}}
+  \textbf{Languages}      & Python, C++, SQL, HTML/CSS, JavaScript \\
+  \textbf{Backend}         & Django, Django REST Framework, Django ORM, Django Allauth \\
+  \textbf{Databases}       & PostgreSQL, SQLite, MySQL \\
+  \textbf{APIs \& Auth}    & RESTful APIs, JWT (SimpleJWT), Stripe Integration, Webhooks, Swagger/OpenAPI \\
+  \textbf{Architecture}    & MVT, Service Layer, Selector Layer, Modular App Design, Clean Architecture \\
+  \textbf{Tools}           & Git, GitHub, pip, virtualenv, python-dotenv, django-filter, django-cors-headers \\
+  \textbf{Data \& ML}      & PyTorch, TensorFlow/Keras, OpenCV, Scikit-Learn, Pandas, NumPy, Power BI \\
+  \textbf{Other}           & Web Scraping (Beautiful Soup, Selenium), Jupyter Notebooks, Google Colab \\
+\end{tabularx}
+}
+
+%----------COMPETITIVE PROGRAMMING----------
+\section{Competitive Programming}
+\begin{itemize}[leftmargin=0.15in, label={}, itemsep=-2pt]
+  \small{
+    \item \textbf{Codeforces Expert} -- Demonstrated strong algorithmic problem-solving skills
+    \item \textbf{Ranked 17th Place} in 2023 ECPC Qualifications (out of 280 teams)
+    \item \textbf{Ranked 90th Place} in the 2023 ECPC Final (out of 280 teams)
+  }
+\end{itemize}
+
+%----------CERTIFICATIONS----------
+\section{Certifications}
+\vspace{2pt}
+{\small
+\renewcommand{\arraystretch}{1.4}
+\begin{tabularx}{\textwidth}{@{\hspace{4pt}} l @{\hspace{12pt}} X @{}}
+  \textbf{Data \& Backend}  & Google Data Analytics Professional Certificate (Coursera) \enspace$\cdot$\enspace Associate Data Engineer in SQL \enspace$\cdot$\enspace ML Specialization (Andrew NG) \\
+  \textbf{Deep Learning}    & DL for Computer Vision -- NTI \enspace$\cdot$\enspace DL for CV -- Coursat.ai \enspace$\cdot$\enspace OpenCV Bootcamp \enspace$\cdot$\enspace Intro to DL \& CV (Ahmed Mostafa) \\
+  \textbf{Cloud \& AI}      & Introduction to Generative AI with AWS (Udacity) \enspace$\cdot$\enspace AI Career Essentials (AiCE) \\
+  \textbf{Algorithms}       & Mastering Critical SKILLS in Algorithms using C++ (Dr. Moustafa Saad) \enspace$\cdot$\enspace Python for Data Science \& ML \\
+\end{tabularx}
+}
+
+%----------SOFT SKILLS----------
+\section{Soft Skills}
+\begin{multicols}{3}
+\begin{itemize}[leftmargin=0.15in]
+  \small{
+    \item Technical Training
+    \item Curriculum Development
+    \item Team Leadership
+    \item Problem-Solving
+    \item Coaching \& Feedback
+    \item Communication
+  }
+\end{itemize}
+\end{multicols}
+
+\end{document}
