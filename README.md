@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0F3460&center=true&vCenter=true&random=false&width=600&height=70&lines=Abdulrahman+Eldeeb;Backend+Engineer+(Django);Codeforces+Expert;OpenCode+%26+AI+Agent+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E67E22,27AE60,2980B9,8E44AD&center=true&vCenter=true&random=false&width=600&height=70&lines=Abdulrahman+Eldeeb;Backend+Engineer+(Django);Codeforces+Expert;OpenCode+%26+AI+Agent+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/abd-el-rahman-eldeeb"><img src="https://img.shields.io/badge/LinkedIn-abd--el--rahman--eldeeb-0A66C2?style=flat-square&logo=linkedin"/></a>
   <a href="https://github.com/ElDEEB21"><img src="https://img.shields.io/badge/GitHub-@ElDEEB21-181717?style=flat-square&logo=github"/></a>
   <a href="https://eldeeb21.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-eldeeb21.github.io-0F3460?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/ElDEEB21"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/Eldeeb_"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@ I'm a **Computer Science graduate** and **Backend Engineer** who builds producti
 
 ### 👨‍🏫 Instructor | Recode Academy
 *Sep 2024 – Present · Fayoum, Egypt*
-- Teach **CS50**, **C++ programming**, algorithms & data structures, and **OOP** concepts to diverse student cohorts
-- Deliver structured curriculum covering problem-solving fundamentals, computational thinking, and advanced programming paradigms
+- Teach **CS50**, **C++**, **data structures & algorithms**, and **OOP** to cohorts of **up to 12 students per group**, ensuring personalized guidance and hands-on practice
+- Deliver structured curriculum covering problem-solving fundamentals, computational thinking, and advanced programming paradigms with weekly coding assignments and progress tracking
 
 ### 🎯 Mentor & Coach | Fayoum ICPC Community
 *Apr 2023 – Mar 2025 · Fayoum, Egypt*
@@ -205,11 +205,19 @@ I'm a **Computer Science graduate** and **Backend Engineer** who builds producti
 
 ## 🏆 Competitive Programming
 
-```yaml
-Codeforces:       Expert (top 5% globally)
-ECPC 2023 Quals:  17th Place (out of 280 teams)
-ECPC 2023 Finals: 90th Place (out of 280 teams)
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Top%205%25%20Globally-2ECC71?style=for-the-badge"/>
+</p>
+
+<div align="center">
+
+| Event | Rank |
+|-------|------|
+| 🏅 **ECPC 2023 Qualifications** | **17th** / 280 teams |
+| 🏅 **ECPC 2023 Finals** | **90th** / 280 teams |
+
+</div>
 
 ---
 
@@ -228,28 +236,18 @@ ECPC 2023 Finals: 90th Place (out of 280 teams)
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.shion.dev/api?username=ElDEEB21&show_icons=true&theme=transparent&hide_border=true" width="400"/></a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ElDEEB21&langs_count=10&theme=transparent&hide_border=true&layout=compact&hide=jupyter%20notebook,matlab,tex" width="400"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ElDEEB21&theme=transparent&hide_border=true&mode=weekly" width="800" alt="GitHub Streak"/></a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.shion.dev/api?username=ElDEEB21&show_icons=true&theme=transparent&hide_border=true" width="420"/></a>
   <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ElDEEB21&langs_count=10&theme=transparent&hide_border=true&layout=compact&hide=jupyter%20notebook,matlab,tex" width="420"/></a>
+  <br/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ElDEEB21&theme=transparent&hide_border=true&mode=weekly" width="600" alt="GitHub Streak"/></a>
+  <br/><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.benkou.dev/?username=ElDEEB21&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies"/>
+    <img src="https://trophy.benkou.dev/?username=ElDEEB21&theme=onedark&no-frame=true&row=2&column=3" alt="Trophies"/>
   </a>
   <br/><br/>
   <a href="https://github.com/ElDEEB21">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElDEEB21&theme=react-dark&hide_border=true&bg_color=00000000&color=0F3460&line=0F3460&point=1A1A2E" alt="GitHub Activity Graph" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElDEEB21&theme=react-dark&hide_border=true&bg_color=00000000&color=0F3460&line=0F3460&point=1A1A2E" alt="GitHub Activity Graph" width="90%"/>
   </a>
 </div>
 
