@@ -19,7 +19,7 @@
 
 I'm a **Computer Science senior** and **Backend Engineer** who builds production-ready RESTful APIs with **Django** and **Django REST Framework**. I design clean architectures, implement secure authentication flows, integrate payment systems, and write tested, containerized backend services. Beyond the backend, I'm a **Codeforces Expert** (top 5% globally) with a passion for algorithms and competitive programming.
 
-**📍 Fayoum, Egypt · 🎓 Fayoum University (BSc CS & AI, graduating Jun 2026)**
+**📍 Fayoum, Egypt · 🎓 Fayoum University (BSc CS & AI, Graduated Jun 2026)**
 
 ---
 
@@ -139,7 +139,7 @@ ECPC 2023 Finals: 90th Place (out of 280 teams)
 ## 📜 Education & Certifications
 
 ### 🎓 Education
-**BSc in Computer Science and Artificial Intelligence** — Fayoum University *(Oct 2022 – Jun 2026)*
+**BSc in Computer Science and Artificial Intelligence** — Fayoum University *(Oct 2022 – Jun 2026)* ✅ Graduated
 
 ### 📜 Certifications
 - **Build REST APIs with Django REST Framework** — Shubham Sarda (Udemy, 13h)
@@ -154,7 +154,7 @@ ECPC 2023 Finals: 90th Place (out of 280 teams)
   <table>
     <tr>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ElDEEB21&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true" height="180px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ElDEEB21&show_icons=true&theme=transparent&hide_border=true" height="180px"/></a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElDEEB21&langs_count=10&theme=transparent&hide_border=true&layout=compact" height="180px"/></a>
@@ -166,7 +166,10 @@ ECPC 2023 Finals: 90th Place (out of 280 teams)
       </td>
     </tr>
   </table>
-  <img src="https://github-profile-trophy.vercel.app/?username=ElDEEB21&theme=flat&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ElDEEB21&theme=onestar&no-frame=true&row=2&column=4" alt="Trophies"/>
+  </a>
   <br/><br/>
   <a href="https://github.com/ElDEEB21">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElDEEB21&theme=react-dark&hide_border=true&bg_color=00000000&color=0F3460&line=0F3460&point=1A1A2E" alt="GitHub Activity Graph" width="100%"/>
