@@ -39,29 +39,67 @@ I'm a **Computer Science senior** and **Backend Engineer** who builds production
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce REST API
-**`Django REST Framework` · `PostgreSQL` · `Stripe` · `JWT` · `Redis` · `Docker` · `Swagger`**
-
-Production-ready e-commerce API covering user auth, products, cart, orders, and **Stripe payment processing** with webhook-driven status updates.
-- **Service Layer & Selector Layer** patterns across 5 modular Django apps
-- **JWT auth** with token rotation, blacklisting, HTTP-only cookies, and split settings (base/dev/prod)
-- **Redis caching** with tiered TTLs and cache invalidation in the service layer on write operations
-- Auto-generated **Swagger/OpenAPI** documentation
-
-### 🍳 Recipe API
-**`Django REST Framework` · `PostgreSQL` · `Docker` · `OpenAPI` · `TDD`**
-
-Production-style Recipe Management API with user registration, token authentication, profile endpoints, and strict ownership isolation.
-- Full **CRUD** for recipes, tags, and ingredients with advanced filtering and image upload
-- **Test-driven development** with comprehensive unit tests, health checks, and DB readiness workflow
-
-### 📝 Postify – Modern Blogging Platform
-**`Django MVT` · `SQLite` · `Chart.js` · `Django Allauth`**
-
-Full-stack blogging platform with markdown editor, hierarchical comments, and **Google OAuth** via Django Allauth.
-- Creator dashboard with post analytics, view tracking, and **Chart.js** trend visualization
-- CMS with categories, tags, auto-generated slugs, search/filter, and custom error pages
-- 5 modular Django apps (`core`, `accounts`, `blog`, `comments`, `dashboard`)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🛒 E-Commerce REST API</h3>
+      <p align="center">
+        <a href="https://github.com/ElDEEB21/ecommerce-api-drf">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElDEEB21&repo=ecommerce-api-drf&theme=transparent&hide_border=true&description_lines_count=2" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElDEEB21/ecommerce-api-drf"><img src="https://img.shields.io/github/languages/top/ElDEEB21/ecommerce-api-drf?style=flat-square&logo=python&logoColor=white"/></a>
+        <a href="https://github.com/ElDEEB21/ecommerce-api-drf/stargazers"><img src="https://img.shields.io/github/stars/ElDEEB21/ecommerce-api-drf?style=flat-square&logo=github"/></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Stripe-5469d4?style=flat-square&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jwt"/>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker"/>
+      </p>
+      <p>Production-ready e-commerce API with <b>Stripe payments</b>, webhook-driven status updates, <b>JWT rotation/blacklisting</b>, and <b>Redis caching</b> with tiered TTLs across 5 modular Django apps.</p>
+      <p align="center"><a href="https://github.com/ElDEEB21/ecommerce-api-drf"><b>View Repository →</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🍳 Recipe API</h3>
+      <p align="center">
+        <a href="https://github.com/ElDEEB21/recipe-api-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElDEEB21&repo=recipe-api-app&theme=transparent&hide_border=true&description_lines_count=2" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElDEEB21/recipe-api-app"><img src="https://img.shields.io/github/languages/top/ElDEEB21/recipe-api-app?style=flat-square&logo=python&logoColor=white"/></a>
+        <a href="https://github.com/ElDEEB21/recipe-api-app/stargazers"><img src="https://img.shields.io/github/stars/ElDEEB21/recipe-api-app?style=flat-square&logo=github"/></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-TDD-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker"/>
+        <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx"/>
+      </p>
+      <p>Dockerized recipe management API with <b>TDD</b>, ownership isolation for user data, image upload to uWSGI/Nginx stack, and OpenAPI/Swagger docs.</p>
+      <p align="center"><a href="https://github.com/ElDEEB21/recipe-api-app"><b>View Repository →</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📝 Postify – Blogging Platform</h3>
+      <p align="center">
+        <a href="https://github.com/ElDEEB21/postify-django">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElDEEB21&repo=postify-django&theme=transparent&hide_border=true&description_lines_count=2" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElDEEB21/postify-django"><img src="https://img.shields.io/github/languages/top/ElDEEB21/postify-django?style=flat-square"/></a>
+        <a href="https://github.com/ElDEEB21/postify-django/stargazers"><img src="https://img.shields.io/github/stars/ElDEEB21/postify-django?style=flat-square&logo=github"/></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Google%20OAuth-4285F4?style=flat-square&logo=google"/>
+        <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs"/>
+        <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown"/>
+      </p>
+      <p>Full-stack blogging platform with <b>Google OAuth</b>, markdown editor, hierarchical comments, creator analytics dashboard with <b>Chart.js</b>, and a complete CMS.</p>
+      <p align="center"><a href="https://github.com/ElDEEB21/postify-django"><b>View Repository →</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -116,19 +154,23 @@ ECPC 2023 Finals: 90th Place (out of 280 teams)
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ElDEEB21&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true" height="180px"/>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ElDEEB21&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true" height="180px"/></a>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElDEEB21&langs_count=10&theme=transparent&hide_border=true&layout=compact" height="180px"/>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElDEEB21&langs_count=10&theme=transparent&hide_border=true&layout=compact" height="180px"/></a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=ElDEEB21&theme=transparent&hide_border=true&mode=weekly" height="180px" alt="GitHub Streak"/>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ElDEEB21&theme=transparent&hide_border=true&mode=weekly" height="180px" alt="GitHub Streak"/></a>
       </td>
     </tr>
   </table>
   <img src="https://github-profile-trophy.vercel.app/?username=ElDEEB21&theme=flat&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <br/><br/>
+  <a href="https://github.com/ElDEEB21">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElDEEB21&theme=react-dark&hide_border=true&bg_color=00000000&color=0F3460&line=0F3460&point=1A1A2E" alt="GitHub Activity Graph" width="100%"/>
+  </a>
 </div>
 
 ---
