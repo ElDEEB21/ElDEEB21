@@ -106,24 +106,100 @@ I'm a **Computer Science graduate** and **Backend Engineer** who builds producti
 
 ## 🛠️ Technical Skills
 
-```
-Languages     │  Python · C++ · SQL · HTML/CSS · JavaScript
-Backend       │  Django · DRF · Django ORM · Class-Based Views · ViewSets · Routers
-              │  Django Allauth · django-filter · django-cors-headers
-APIs & Auth   │  RESTful APIs · JWT (SimpleJWT) · Token Auth · Permissions · Throttling
-              │  Stripe Integration · Webhooks · Swagger/OpenAPI
-Databases     │  PostgreSQL · SQLite · MySQL · Redis
-              │  Django ORM · Migrations · Query Optimization · Normalization
-Architecture  │  MVT · Service Layer · Selector Layer · Modular App Design
-              │  Clean Architecture · Test-Driven Development (TDD)
-Tools         │  Git · GitHub Actions (CI/CD) · Docker · Docker Compose
-              │  Flake8 · Postman · pip · virtualenv
-Data & ML     │  PyTorch · TensorFlow/Keras · OpenCV · Scikit-Learn
-              │  Pandas · NumPy · Power BI · Jupyter
-AI-Assisted   │  Coding agents (OpenCode, Claude Code) · Model Context Protocol (MCP)
-              │  Multi-agent systems · Agent orchestration · Skill/tool development
-Other         │  Web Scraping (Beautiful Soup, Selenium) · Google Colab
-```
+<table>
+  <tr>
+    <td width="160"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DRF-ec1c24?style=flat&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django%20ORM-092E20?style=flat&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django%20Allauth-092E20?style=flat&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/django--filter-092E20?style=flat&logo=django&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>APIs & Auth</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RESTful%20API-FF6C37?style=flat&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jwt&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Stripe-5469d4?style=flat&logo=stripe&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Webhooks-FF5722?style=flat&logo=webhook&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>Architecture</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MVT-092E20?style=flat&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Service%20Layer-00599C?style=flat&logo=diagramsdotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=flat"/>
+      <img src="https://img.shields.io/badge/TDD-2C8EBB?style=flat&logo=checkmarx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Modular%20Design-6F42C1?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flake8-000000?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>Data & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>AI-Assisted</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenCode-000000?style=flat&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MCP-000000?style=flat"/>
+      <img src="https://img.shields.io/badge/Multi--Agent-6F42C1?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="160"><b>Other</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Beautiful%20Soup-4B8BBE?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
