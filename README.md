@@ -1,188 +1,144 @@
-<h1 align="center">Abdulrahman Eldeeb</h1>
-<h3 align="center">Backend Engineer | Django & REST APIs</h3>
-
 <p align="center">
-  <strong>Senior CS Student</strong> at Fayoum University | Building scalable, production-ready APIs with Django
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0F3460&center=true&vCenter=true&random=false&width=600&height=70&lines=Abdulrahman+Eldeeb;Backend+Engineer+(Django);Codeforces+Expert;OpenCode+%26+AI+Agent+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:ar2724@fayoum.edu.eg">📧 Email</a> •
-  <a href="https://linkedin.com/in/abd-el-rahman-eldeeb">💼 LinkedIn</a> •
-  <a href="https://github.com/ElDEEB21">🔗 GitHub</a>
+  <a href="mailto:ar2724@fayoum.edu.eg"><img src="https://img.shields.io/badge/Email-ar2724%40fayoum.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abd-el-rahman-eldeeb"><img src="https://img.shields.io/badge/LinkedIn-abd--el--rahman--eldeeb-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="https://github.com/ElDEEB21"><img src="https://img.shields.io/badge/GitHub-@ElDEEB21-181717?style=flat-square&logo=github"/></a>
+  <a href="https://codeforces.com/profile/ElDEEB21"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ElDEEB21&style=flat-square&color=0F3460" alt="Profile views"/>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **Backend Developer** passionate about building robust, scalable APIs and backend systems. My expertise lies in **Django and Django REST Framework**, where I design clean architectures, implement secure authentication, and integrate external payment systems. Currently a senior CS student at Fayoum University with hands-on experience in production-ready applications.
+I'm a **Computer Science senior** and **Backend Engineer** who builds production-ready RESTful APIs with **Django** and **Django REST Framework**. I design clean architectures, implement secure authentication flows, integrate payment systems, and write tested, containerized backend services. Beyond the backend, I'm a **Codeforces Expert** (top 5% globally) with a passion for algorithms and competitive programming.
 
-**Key Strengths:**
-- 🏗️ **Backend Architecture & Design** - Service Layer, Selector Layer, modular Django apps
-- 🔐 **Secure Authentication** - JWT with token rotation, OAuth, secure session management  
-- 💳 **Payment Integration** - Stripe webhooks, transaction processing, error handling
-- 📊 **Database Design** - PostgreSQL, normalized schemas, complex queries
-- 🎯 **RESTful API Design** - Clean endpoints, versioning, comprehensive documentation
+**📍 Fayoum, Egypt · 🎓 Fayoum University (BSc CS & AI, graduating Jun 2026)**
 
-**Beyond Backend:**
-- 🎓 **Technical Mentor** - Instructed youth at Digital Egypt Cubs & coached 15+ students in competitive programming
-- 💡 **Codeforces Expert** - 17th Place ECPC 2023 Qualifications, strong algorithmic foundation
+---
+
+## 💼 Experience
+
+### 👨‍🏫 Instructor | Recode Academy
+*Sep 2024 – Present · Fayoum, Egypt*
+- Teach **CS50**, **C++ programming**, algorithms & data structures, and **OOP** concepts to diverse student cohorts
+- Deliver structured curriculum covering problem-solving fundamentals, computational thinking, and advanced programming paradigms
+
+### 🎯 Mentor & Coach | Fayoum ICPC Community
+*Apr 2023 – Mar 2025 · Fayoum, Egypt*
+- Mentored **15–20 students** in programming fundamentals, data structures, and algorithm techniques for the **Egyptian Collegiate Programming Contest (ECPC)**
+- Organized programming workshops, training sessions, and coding competitions for the community
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 [E-Commerce REST API](https://github.com/ElDEEB21/ecommerce-api-drf) ⭐ **Main Project**
-**Production-ready e-commerce backend API with complete payment integration**
+### 🛒 E-Commerce REST API
+**`Django REST Framework` · `PostgreSQL` · `Stripe` · `JWT` · `Redis` · `Docker` · `Swagger`**
 
-Built a fully functional e-commerce API from the ground up covering authentication, product catalog, shopping cart, order management, and **Stripe payment processing** with webhook-driven status updates.
+Production-ready e-commerce API covering user auth, products, cart, orders, and **Stripe payment processing** with webhook-driven status updates.
+- **Service Layer & Selector Layer** patterns across 5 modular Django apps
+- **JWT auth** with token rotation, blacklisting, HTTP-only cookies, and split settings (base/dev/prod)
+- **Redis caching** with tiered TTLs and cache invalidation in the service layer on write operations
+- Auto-generated **Swagger/OpenAPI** documentation
 
-**Key Features:**
-- 20+ RESTful endpoints covering all major operations
-- JWT authentication with token rotation & blacklisting
-- Stripe integration with webhook support for payment status tracking
-- Service Layer & Selector Layer architecture patterns
-- Auto-generated Swagger/OpenAPI documentation
-- 5 modular Django apps with clean separation of concerns
+### 🍳 Recipe API
+**`Django REST Framework` · `PostgreSQL` · `Docker` · `OpenAPI` · `TDD`**
 
-**Tech Stack:** `Django REST Framework` • `PostgreSQL` • `Stripe` • `JWT` • `Swagger`
+Production-style Recipe Management API with user registration, token authentication, profile endpoints, and strict ownership isolation.
+- Full **CRUD** for recipes, tags, and ingredients with advanced filtering and image upload
+- **Test-driven development** with comprehensive unit tests, health checks, and DB readiness workflow
 
----
+### 📝 Postify – Modern Blogging Platform
+**`Django MVT` · `SQLite` · `Chart.js` · `Django Allauth`**
 
-### 📝 [Postify -- Modern Blogging Platform](https://github.com/ElDEEB21/postify-django) ⭐ **Full-Stack**
-**Complete blogging platform with analytics dashboard and CMS**
-
-Developed a full-featured blogging platform with user authentication, rich content management, and real-time analytics.
-
-**Key Features:**
-- Google OAuth integration with Django Allauth
-- Complete CMS with categories, tags, and auto-generated slugs
-- Hierarchical comment system for user engagement
-- Creator dashboard with post analytics & Chart.js visualization
-- Responsive design with custom error pages
-- 5 modular Django apps organized for scalability
-
-**Tech Stack:** `Django MVT` • `SQLite` • `Django Allauth` • `Chart.js` • `Markdown Editor`
+Full-stack blogging platform with markdown editor, hierarchical comments, and **Google OAuth** via Django Allauth.
+- Creator dashboard with post analytics, view tracking, and **Chart.js** trend visualization
+- CMS with categories, tags, auto-generated slugs, search/filter, and custom error pages
+- 5 modular Django apps (`core`, `accounts`, `blog`, `comments`, `dashboard`)
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### 🔴 Backend Development (Primary)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-ec1c24?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔐 APIs & Authentication  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-%235469d4.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Swagger/OpenAPI](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Django Allauth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### 💾 Databases & ORM
-- **Relational:** PostgreSQL, MySQL, SQLite
-- **ORM:** Django ORM with complex queries, migrations
-- **Design:** Normalization, indexing, query optimization
-
-### 🎯 Architecture & Design Patterns
-- Service Layer & Selector Layer patterns
-- Clean Architecture principles
-- Modular app design
-- RESTful API design & versioning
-
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### 📊 Data & ML (Secondary)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+```
+Languages     │  Python · C++ · SQL · HTML/CSS · JavaScript
+Backend       │  Django · DRF · Django ORM · Class-Based Views · ViewSets · Routers
+              │  Django Allauth · django-filter · django-cors-headers
+APIs & Auth   │  RESTful APIs · JWT (SimpleJWT) · Token Auth · Permissions · Throttling
+              │  Stripe Integration · Webhooks · Swagger/OpenAPI
+Databases     │  PostgreSQL · SQLite · MySQL · Redis
+              │  Django ORM · Migrations · Query Optimization · Normalization
+Architecture  │  MVT · Service Layer · Selector Layer · Modular App Design
+              │  Clean Architecture · Test-Driven Development (TDD)
+Tools         │  Git · GitHub Actions (CI/CD) · Docker · Docker Compose
+              │  Flake8 · Postman · pip · virtualenv
+Data & ML     │  PyTorch · TensorFlow/Keras · OpenCV · Scikit-Learn
+              │  Pandas · NumPy · Power BI · Jupyter
+AI-Assisted   │  Coding agents (OpenCode, Claude Code) · Model Context Protocol (MCP)
+              │  Multi-agent systems · Agent orchestration · Skill/tool development
+Other         │  Web Scraping (Beautiful Soup, Selenium) · Google Colab
+```
 
 ---
 
-## Education & Certifications
+## 🏆 Competitive Programming
 
-### 🎓 Degree
-**Bachelor of Computer Science and Artificial Intelligence**  
-Fayoum University (Oct 2022 – Jul 2026)
-
-### 🏆 Certifications
-**Backend & Databases:**
-- Associate Data Engineer in SQL
-- Google Data Analytics Professional Certificate  
-- Mastering Critical Skills in Algorithms using C++ (Dr. Moustafa Saad)
-
-**Machine Learning & AI:**
-- Machine Learning Specialization (Andrew Ng)
-- Deep Learning for Computer Vision (NTI & Coursat.ai)
-- Introduction to Generative AI with AWS (Udacity)
-- OpenCV Bootcamp
-
-### 🏅 Competitive Programming
-- **Codeforces Expert** - Advanced problem-solving, algorithmic thinking
-- **ECPC 2023 Qualifications:** 17th Place (out of 280 teams)
-- **ECPC 2023 Final:** 90th Place (out of 280 teams)
+```yaml
+Codeforces:       Expert (top 5% globally)
+ECPC 2023 Quals:  17th Place (out of 280 teams)
+ECPC 2023 Finals: 90th Place (out of 280 teams)
+```
 
 ---
 
-## Experience
+## 📜 Education & Certifications
 
-**👨‍🏫 Technical Instructor** | Digital Egypt Cubs Initiative  
-*July 2025 – Dec 2025*
-- Taught tech fundamentals to 50+ students aged 12–17
-- Developed engaging curriculum for coding, design thinking, and AI concepts
-- Organized hands-on projects and team-based learning activities
+### 🎓 Education
+**BSc in Computer Science and Artificial Intelligence** — Fayoum University *(Oct 2022 – Jun 2026)*
 
-**🎯 Competitive Programming Mentor & Coach** | Fayoum ICPC Community  
-*April 2023 – Mar 2025*
-- Mentored 15–20 advanced students preparing for Egyptian Collegiate Programming Contest
-- Conducted workshops on data structures, algorithms, and problem-solving techniques
-- Organized training sessions and internal programming competitions
+### 📜 Certifications
+- **Build REST APIs with Django REST Framework** — Shubham Sarda (Udemy, 13h)
+- **Python Django - The Practical Guide** — Academind/Udemy (23h)
+- **Build a Backend REST API with Python & Django - Advanced** — Udemy (15h)
 
 ---
 
-<h3 align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="5%" valign="bottom"> GitHub Stats
-</h3>
+## 📊 GitHub Analytics
+
 <div align="center">
   <table>
     <tr>
-      <td align="left">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img alt="Abd El-Rahman Eldeeb's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ElDEEB21&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px" />
-        </a>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ElDEEB21&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true" height="180px"/>
       </td>
-      <td align="right">
-        <a href="https://github-readme-stats.vercel.app/api/top-langs?username=ElDEEB21&langs_count=10&show_icons=true&locale=en&theme=transparent&layout=compact">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElDEEB21&langs_count=10&show_icons=true&locale=en&theme=transparent&layout=compact" alt="Top 10 Languages" height="230px" />
-        </a>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElDEEB21&langs_count=10&theme=transparent&hide_border=true&layout=compact" height="180px"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=ElDEEB21&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak graph"/>
+        <img src="https://streak-stats.demolab.com?user=ElDEEB21&theme=transparent&hide_border=true&mode=weekly" height="180px" alt="GitHub Streak"/>
       </td>
     </tr>
   </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=ElDEEB21&theme=flat&no-frame=true&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
 
-## 🤝 Soft Skills
+## 🤝 Let's Connect
 
-- Technical Training & Curriculum Development
-- Team Leadership & Mentoring
-- Problem-Solving & Analytical Thinking
-- Effective Communication
-- Code Review & Best Practices
-- Project Management
+I'm actively looking for **backend engineering (Django/Python)** opportunities. If you need someone who writes clean, tested, production-ready code — let's talk.
+
+<p align="center">
+  <a href="mailto:ar2724@fayoum.edu.eg"><img src="https://img.shields.io/badge/Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abd-el-rahman-eldeeb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ElDEEB21?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
