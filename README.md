@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science senior** and **Backend Engineer** who builds production-ready RESTful APIs with **Django** and **Django REST Framework**. I design clean architectures, implement secure authentication flows, integrate payment systems, and write tested, containerized backend services. Beyond the backend, I'm a **Codeforces Expert** (top 5% globally) with a passion for algorithms and competitive programming.
+I'm a **Computer Science graduate** and **Backend Engineer** who builds production-ready RESTful APIs with **Django** and **Django REST Framework**. I design clean architectures, implement secure authentication flows, integrate payment systems, and write tested, containerized backend services. Beyond the backend, I'm a **Codeforces Expert** (top 5% globally) with a passion for algorithms and competitive programming.
 
 **📍 Fayoum, Egypt · 🎓 Fayoum University (BSc CS & AI, Graduated Jun 2026)**
 
@@ -45,7 +45,7 @@ I'm a **Computer Science senior** and **Backend Engineer** who builds production
       <h3 align="center">🛒 E-Commerce REST API</h3>
       <p align="center">
         <a href="https://github.com/ElDEEB21/ecommerce-api-drf">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElDEEB21&repo=ecommerce-api-drf&theme=transparent&hide_border=true&description_lines_count=2" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ElDEEB21&repo=ecommerce-api-drf&theme=transparent&hide_border=true&description_lines_count=2" />
         </a>
       </p>
       <p align="center">
@@ -64,7 +64,7 @@ I'm a **Computer Science senior** and **Backend Engineer** who builds production
       <h3 align="center">🍳 Recipe API</h3>
       <p align="center">
         <a href="https://github.com/ElDEEB21/recipe-api-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElDEEB21&repo=recipe-api-app&theme=transparent&hide_border=true&description_lines_count=2" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ElDEEB21&repo=recipe-api-app&theme=transparent&hide_border=true&description_lines_count=2" />
         </a>
       </p>
       <p align="center">
@@ -83,7 +83,7 @@ I'm a **Computer Science senior** and **Backend Engineer** who builds production
       <h3 align="center">📝 Postify – Blogging Platform</h3>
       <p align="center">
         <a href="https://github.com/ElDEEB21/postify-django">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ElDEEB21&repo=postify-django&theme=transparent&hide_border=true&description_lines_count=2" />
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ElDEEB21&repo=postify-django&theme=transparent&hide_border=true&description_lines_count=2" />
         </a>
       </p>
       <p align="center">
@@ -154,21 +154,21 @@ ECPC 2023 Finals: 90th Place (out of 280 teams)
   <table>
     <tr>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ElDEEB21&show_icons=true&theme=transparent&hide_border=true" height="180px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.shion.dev/api?username=ElDEEB21&show_icons=true&theme=transparent&hide_border=true" width="400"/></a>
       </td>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElDEEB21&langs_count=10&theme=transparent&hide_border=true&layout=compact" height="180px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ElDEEB21&langs_count=10&theme=transparent&hide_border=true&layout=compact" width="400"/></a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ElDEEB21&theme=transparent&hide_border=true&mode=weekly" height="180px" alt="GitHub Streak"/></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ElDEEB21&theme=transparent&hide_border=true&mode=weekly" width="800" alt="GitHub Streak"/></a>
       </td>
     </tr>
   </table>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ElDEEB21&theme=onestar&no-frame=true&row=2&column=4" alt="Trophies"/>
+    <img src="https://trophy.benkou.dev/?username=ElDEEB21&theme=onedark&no-frame=true&row=2&column=4" alt="Trophies"/>
   </a>
   <br/><br/>
   <a href="https://github.com/ElDEEB21">
