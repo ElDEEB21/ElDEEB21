@@ -207,7 +207,7 @@ I'm a **Computer Science graduate** and **Backend Engineer** who builds producti
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Top%205%25%20Globally-2ECC71?style=for-the-badge"/>
+
 </p>
 
 <div align="center">
