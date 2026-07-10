@@ -234,7 +234,7 @@ ECPC 2023 Finals: 90th Place (out of 280 teams)
         <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.shion.dev/api?username=ElDEEB21&show_icons=true&theme=transparent&hide_border=true" width="400"/></a>
       </td>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ElDEEB21&langs_count=10&theme=transparent&hide_border=true&layout=compact" width="400"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ElDEEB21&langs_count=10&theme=transparent&hide_border=true&layout=compact&hide=jupyter%20notebook,matlab,tex" width="400"/></a>
       </td>
     </tr>
     <tr>
