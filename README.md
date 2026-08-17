@@ -104,6 +104,96 @@ I'm a **Computer Science graduate** and **Backend Engineer** who builds producti
 
 ---
 
+## 🌍 Open Source Contributions
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=E67E22,27AE60,2980B9,8E44AD&center=true&vCenter=true&random=false&width=560&height=64&lines=Open+Source+Contributor;3+Merged+PRs+%E2%9C%94;%2B4%2C028+Lines+Added+%F0%9F%9A%80" alt="Open Source Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Merged%203%20PRs-27AE60?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%2B4%2C028%20Lines%20Added-1F8ACB?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/55%20Files%20Changed-8E44AD?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+All merged into [**delegate-skills**](https://github.com/amElnagdy/delegate-skills) — a community library of implementer skills that let orchestrators dispatch coding briefs to separate AI coding-agent CLIs, review the diff, and land the commit.
+
+### 🧰 Harden the shared engine
+
+<table cellspacing="12">
+  <tr>
+    <td width="100%" valign="top">
+      <div style="border:1px solid #30363d;border-radius:12px;padding:18px 20px;">
+        <p align="center">
+          <img src="https://img.shields.io/badge/MERGED-27AE60?style=flat-square&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Refactor-E67E22?style=flat-square"/>
+        </p>
+        <h3 align="center"><a href="https://github.com/amElnagdy/delegate-skills/pull/39">🔁 Unify the relay event scanner</a> <code>#39</code></h3>
+        <p align="center">Unified seven duplicated relay event scanners into one byte-identical, parity-gated implementation — fixing an unbounded memory-growth defect and hardening recovery across chunk boundaries.</p>
+        <ul>
+          <li>21/21 scanner test cases: chunk boundaries, malformed input, junk prefixes &amp; recovery</li>
+          <li>Deduplicated 7 drifted copies (claude, opencode, grok, kimi, qoder, cursor, pi)</li>
+          <li>Shipped inline so single-skill installs never break, gated by parity checks</li>
+        </ul>
+        <hr style="border:0;border-top:1px solid #30363d;margin:12px 0;"/>
+        <p align="center">
+          <code>+656 −366</code> · 13 files ·
+          <a href="https://github.com/amElnagdy/delegate-skills/pull/39"><img src="https://img.shields.io/badge/View%20Pull%20Request-0F3460?style=flat-square&logo=github&logoColor=white"/></a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+### 🤖 Grow the implementer fleet
+
+<table cellspacing="12">
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border:1px solid #30363d;border-radius:12px;padding:18px 20px;">
+        <p align="center">
+          <img src="https://img.shields.io/badge/MERGED-27AE60?style=flat-square&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Feature-2980B9?style=flat-square"/>
+        </p>
+        <h3 align="center"><a href="https://github.com/amElnagdy/delegate-skills/pull/59">🤖 Cline CLI delegation skill</a> <code>#59</code></h3>
+        <p align="center">Shipped the eleventh implementer skill for the delegation fleet — a Node-built-ins-only relay that drives the Cline CLI in headless JSON mode, keeps the brief on stdin, and never commits.</p>
+        <ul>
+          <li>Verified against the real Cline 3.0.52 headless contract</li>
+          <li>Plan-mode safety: <code>--plan</code> forces <code>--auto-approve false</code>, blocking act-mode auto-approval</li>
+          <li>Registered across smoke, parity, isolation &amp; timeout gates</li>
+        </ul>
+        <hr style="border:0;border-top:1px solid #30363d;margin:12px 0;"/>
+        <p align="center">
+          <code>+1,681 −34</code> · 21 files ·
+          <a href="https://github.com/amElnagdy/delegate-skills/pull/59"><img src="https://img.shields.io/badge/View%20Pull%20Request-0F3460?style=flat-square&logo=github&logoColor=white"/></a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="border:1px solid #30363d;border-radius:12px;padding:18px 20px;">
+        <p align="center">
+          <img src="https://img.shields.io/badge/MERGED-27AE60?style=flat-square&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Feature-2980B9?style=flat-square"/>
+        </p>
+        <h3 align="center"><a href="https://github.com/amElnagdy/delegate-skills/pull/87">🚀 GitHub Copilot CLI delegation skill</a> <code>#87</code></h3>
+        <p align="center">Added GitHub Copilot CLI as a full implementer — JSONL event capture, auto-deny detection, and session resume flows, verified live on Windows.</p>
+        <ul>
+          <li><code>--read-only</code> research mode and <code>--allow-all-tools</code> edit runs verified live</li>
+          <li>Denial detection from the real data-wrapped event shape (<code>success:false</code>, <code>code:denied</code>)</li>
+          <li>Windows-native launch with documented Node 22+ floors</li>
+        </ul>
+        <hr style="border:0;border-top:1px solid #30363d;margin:12px 0;"/>
+        <p align="center">
+          <code>+1,691 −15</code> · 21 files ·
+          <a href="https://github.com/amElnagdy/delegate-skills/pull/87"><img src="https://img.shields.io/badge/View%20Pull%20Request-0F3460?style=flat-square&logo=github&logoColor=white"/></a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Technical Skills
 
 <table>
