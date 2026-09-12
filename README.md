@@ -185,7 +185,7 @@ All merged into [**delegate-skills**](https://github.com/amElnagdy/delegate-skil
         <hr style="border:0;border-top:1px solid #30363d;margin:12px 0;"/>
         <p align="center">
           <code>+1,691 −15</code> · 21 files ·
-          <a href="https://github.com/amElnagdy/delegate-skills/pull/87"><img src="https://img.shields.io/badge/View%20Pull%20Request-0F3460?style=for-the-badge&logo=github&logoColor=white"/></a>
+          <a href="https://github.com/amElnagdy/delegate-skills/pull/87"><img src="https://img.shields.io/badge/View%20Pull%20Request-0F3460?style=flat-square&logo=github&logoColor=white"/></a>
         </p>
       </div>
     </td>
