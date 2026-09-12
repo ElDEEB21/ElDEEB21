@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E67E22,27AE60,2980B9,8E44AD&center=true&vCenter=true&random=false&width=600&height=70&lines=Abdulrahman+Eldeeb;Backend+Engineer+(Django);Codeforces+Expert;OpenCode+%26+AI+Agent+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E67E22,27AE60,2980B9,8E44AD&center=true&vCenter=true&random=false&width=600&height=70&lines=Abdulrahman+Eldeeb;Backend+Engineer+(Django%2C+FastAPI);Codeforces+Expert;OpenCode+%26+AI+Agent+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science graduate** and **Backend Engineer** who builds production-ready RESTful APIs with **Django** and **Django REST Framework**. I design clean architectures, implement secure authentication flows, integrate payment systems, and write tested, containerized backend services. Beyond the backend, I'm a **Codeforces Expert** (top 5% globally) with a passion for algorithms and competitive programming.
+I'm a **Computer Science graduate** and **Backend Engineer** who builds production-ready RESTful APIs with **Django**, **Django REST Framework**, and **FastAPI**. I design clean architectures, implement secure authentication flows, ship **Celery background-task workers**, integrate payment systems, and write tested, containerized backend services. Beyond the backend, I'm a **Codeforces Expert** (top 5% globally) with a passion for algorithms and competitive programming.
 
 **📍 Fayoum, Egypt · 🎓 Fayoum University (BSc CS & AI, Graduated Jun 2026)**
 
@@ -42,6 +42,25 @@ I'm a **Computer Science graduate** and **Backend Engineer** who builds producti
 
 <table>
   <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">📚 Bookly – Book Management API</h3>
+      <p align="center">
+        <a href="https://github.com/ElDEEB21/bookly-fastapi">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ElDEEB21&repo=bookly-fastapi&theme=transparent&hide_border=true&description_lines_count=2" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ElDEEB21/bookly-fastapi"><img src="https://img.shields.io/github/languages/top/ElDEEB21/bookly-fastapi?style=flat-square&logo=python&logoColor=white"/></a>
+        <a href="https://github.com/ElDEEB21/bookly-fastapi/stargazers"><img src="https://img.shields.io/github/stars/ElDEEB21/bookly-fastapi?style=flat-square&logo=github"/></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      </p>
+      <p>Async book catalog API with <b>FastAPI + SQLModel</b>, JWT auth with refresh rotation and <b>Redis blocklist</b>, and email verification/password reset delivered via <b>Celery background workers</b> — plus RBAC and rate limiting.</p>
+      <p align="center"><a href="https://github.com/ElDEEB21/bookly-fastapi"><b>View Repository →</b></a></p>
+    </td>
     <td width="33%" valign="top">
       <h3 align="center">🛒 E-Commerce REST API</h3>
       <p align="center">
@@ -79,25 +98,6 @@ I'm a **Computer Science graduate** and **Backend Engineer** who builds producti
       </p>
       <p>Dockerized recipe management API with <b>TDD</b>, ownership isolation for user data, image upload to uWSGI/Nginx stack, and OpenAPI/Swagger docs.</p>
       <p align="center"><a href="https://github.com/ElDEEB21/recipe-api-app"><b>View Repository →</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">📝 Postify – Blogging Platform</h3>
-      <p align="center">
-        <a href="https://github.com/ElDEEB21/postify-django">
-          <img src="https://github-readme-stats.shion.dev/api/pin/?username=ElDEEB21&repo=postify-django&theme=transparent&hide_border=true&description_lines_count=2" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://github.com/ElDEEB21/postify-django"><img src="https://img.shields.io/github/languages/top/ElDEEB21/postify-django?style=flat-square"/></a>
-        <a href="https://github.com/ElDEEB21/postify-django/stargazers"><img src="https://img.shields.io/github/stars/ElDEEB21/postify-django?style=flat-square&logo=github"/></a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/-Google%20OAuth-4285F4?style=flat-square&logo=google"/>
-        <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs"/>
-        <img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown"/>
-      </p>
-      <p>Full-stack blogging platform with <b>Google OAuth</b>, markdown editor, hierarchical comments, creator analytics dashboard with <b>Chart.js</b>, and a complete CMS.</p>
-      <p align="center"><a href="https://github.com/ElDEEB21/postify-django"><b>View Repository →</b></a></p>
     </td>
   </tr>
 </table>
@@ -185,7 +185,7 @@ All merged into [**delegate-skills**](https://github.com/amElnagdy/delegate-skil
         <hr style="border:0;border-top:1px solid #30363d;margin:12px 0;"/>
         <p align="center">
           <code>+1,691 −15</code> · 21 files ·
-          <a href="https://github.com/amElnagdy/delegate-skills/pull/87"><img src="https://img.shields.io/badge/View%20Pull%20Request-0F3460?style=flat-square&logo=github&logoColor=white"/></a>
+          <a href="https://github.com/amElnagdy/delegate-skills/pull/87"><img src="https://img.shields.io/badge/View%20Pull%20Request-0F3460?style=for-the-badge&logo=github&logoColor=white"/></a>
         </p>
       </div>
     </td>
@@ -213,8 +213,11 @@ All merged into [**delegate-skills**](https://github.com/amElnagdy/delegate-skil
     <td>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/DRF-ec1c24?style=flat&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLModel-009688?style=flat"/>
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django%20ORM-092E20?style=flat&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django%20Allauth-092E20?style=flat&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/django--filter-092E20?style=flat&logo=django&logoColor=white"/>
     </td>
   </tr>
@@ -243,6 +246,8 @@ All merged into [**delegate-skills**](https://github.com/amElnagdy/delegate-skil
     <td>
       <img src="https://img.shields.io/badge/MVT-092E20?style=flat&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Service%20Layer-00599C?style=flat&logo=diagramsdotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Async%20Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Background%20Tasks-37814A?style=flat"/>
       <img src="https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=flat"/>
       <img src="https://img.shields.io/badge/TDD-2C8EBB?style=flat&logo=checkmarx&logoColor=white"/>
       <img src="https://img.shields.io/badge/Modular%20Design-6F42C1?style=flat"/>
@@ -254,6 +259,8 @@ All merged into [**delegate-skills**](https://github.com/amElnagdy/delegate-skil
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Alembic-000000?style=flat"/>
+      <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat"/>
       <img src="https://img.shields.io/badge/Flake8-000000?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
     </td>
@@ -345,7 +352,7 @@ All merged into [**delegate-skills**](https://github.com/amElnagdy/delegate-skil
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **backend engineering (Django/Python)** opportunities. If you need someone who writes clean, tested, production-ready code — let's talk.
+I'm actively looking for **backend engineering (Python/Django/FastAPI)** opportunities. If you need someone who writes clean, tested, production-ready code — let's talk.
 
 <p align="center">
   <a href="mailto:ar2724@fayoum.edu.eg"><img src="https://img.shields.io/badge/Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
