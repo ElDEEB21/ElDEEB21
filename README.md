@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ar2724@fayoum.edu.eg"><img src="https://img.shields.io/badge/Email-ar2724%40fayoum.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:eldeebabdulrahman6@gmail.com"><img src="https://img.shields.io/badge/Email-eldeebabdulrahman6%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/abd-el-rahman-eldeeb"><img src="https://img.shields.io/badge/LinkedIn-abd--el--rahman--eldeeb-0A66C2?style=flat-square&logo=linkedin"/></a>
   <a href="https://github.com/ElDEEB21"><img src="https://img.shields.io/badge/GitHub-@ElDEEB21-181717?style=flat-square&logo=github"/></a>
   <a href="https://eldeeb21.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-eldeeb21.github.io-0F3460?style=flat-square&logo=google-chrome&logoColor=white"/></a>
@@ -355,7 +355,7 @@ All merged into [**delegate-skills**](https://github.com/amElnagdy/delegate-skil
 I'm actively looking for **backend engineering (Python/Django/FastAPI)** opportunities. If you need someone who writes clean, tested, production-ready code — let's talk.
 
 <p align="center">
-  <a href="mailto:ar2724@fayoum.edu.eg"><img src="https://img.shields.io/badge/Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:eldeebabdulrahman6@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/abd-el-rahman-eldeeb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://eldeeb21.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F3460?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/ElDEEB21?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
