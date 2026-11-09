@@ -27,7 +27,7 @@ I'm a **Computer Science graduate** and **Backend Engineer** who builds producti
 ## 💼 Experience
 
 ### 👨‍🏫 Instructor | Recode Academy
-*Sep 2024 – Present · Fayoum, Egypt*
+*Sep 2024 – Sep 2026 · Fayoum, Egypt*
 - Teach **CS50**, **C++**, **data structures & algorithms**, and **OOP** to cohorts of **up to 12 students per group**, ensuring personalized guidance and hands-on practice
 - Deliver structured curriculum covering problem-solving fundamentals, computational thinking, and advanced programming paradigms with weekly coding assignments and progress tracking
 
